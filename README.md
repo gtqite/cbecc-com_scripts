@@ -14,6 +14,12 @@ If not using Anaconda, install the following:
 - [LXML](https://lxml.de/installation.html)
 - [Pandas](https://pandas.pydata.org/getpandas.html)
 
+### Running the scripts
+
+1. Open the Jupyter Notebook and navigate to the location on your computer where the CBECC-Com scripts are saved
+2. Click on the .ipynb file for the script you want to run.
+3. Follow the instructions for each script.
+
 ## Currently available scripts
 
 ### VAV Box Scripts
