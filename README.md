@@ -40,7 +40,7 @@ Other Tutorials:
 ## Currently available scripts
 
 ### Parser
-- CBECC-Com_Data_Parser - Parses the CBECC-com file into Excel for viewing only. Only terminal units are editable from the VAV Box Scripts folder. More equipemnts will be available soon.
+- CBECC-Com_Data_Parser - Parses the CBECC-com file into Excel for viewing only. Only terminal units are editable from the VAV Box Scripts folder. More equipment will be available soon.
 
 ### VAV Box Scripts
 - Make_VAV - Creates a text file in the xml format to paste into CBECC-com when opening in text editor.
