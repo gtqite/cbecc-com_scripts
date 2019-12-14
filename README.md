@@ -4,6 +4,8 @@ This repository is for storing python scripts to be used with CBECC-com. Scripts
 
 ## Getting Started
 
+Clone or download this github repository to your own computer. 
+
 ### Prerequisites
 
 Recommended: [Anaconda](https://www.anaconda.com/distribution/) includes all python environments and IDE needed to run all the scripts.
@@ -33,9 +35,10 @@ Other Tutorials:
 
 ### Running the scripts
 
-1. Open the Jupyter Notebook and navigate to the location on your computer where the CBECC-Com scripts are saved
-2. Click on the .ipynb file for the script you want to run.
-3. Follow the instructions for each script.
+1. Save a copy of your Jupyter Notebook files to where your CBECC-Com file is saved.
+2. Open the Jupyter Notebook and navigate to the location on your computer where the CBECC-Com and Jupyter Notebook files are saved
+3. Click on the .ipynb file for the script you want to run.
+4. Follow the instructions for each script.
 
 ## Currently available scripts
 
