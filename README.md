@@ -58,7 +58,7 @@ Other Tutorials:
 - Lighting editor
 - Central Plant editor
 
-## Basics of Scripting in CBECC-Com
+## Basics of Using Python with CBECC-Com
 
 ### CBECC-Com XML Structure
 TBD
