@@ -17,7 +17,9 @@ If not using Anaconda, install the following:
 - [Pandas](https://pandas.pydata.org/getpandas.html)
 
 ### Python Tutorials
-It is recommended to have basic python skills to understand and modify any of the scripts. There are many basic python tutorials available online and sny of them should give you enough knowledge for these scripts.
+The scripts are all usable without any understanding of how to write code. 
+
+It is recommended to have basic python skills to understand and modify any of the scripts. There are many basic python tutorials available online and any of them should give you enough knowledge for these scripts.
 
 At minimum, know how to do the following:
 - Data Types (string, number, list, dictionary)
